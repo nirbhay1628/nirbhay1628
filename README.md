@@ -123,17 +123,11 @@ Regression model trained on **15,000+ records** using health features (BMI, hear
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to internships, research collaborations, and exciting ML projects!</i><br/>
   <b>Let's build something intelligent together 🚀</b>
 </p>
