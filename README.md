@@ -1,134 +1,200 @@
-<h1 align="center">Hi there, I'm Nirbhay Chaudhary 👋</h1>
+<div align="center">
+
+```
+███╗   ██╗██╗██████╗ ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
+████╗  ██║██║██╔══██╗██╔══██╗██║  ██║██╔══██╗╚██╗ ██╔╝
+██╔██╗ ██║██║██████╔╝██████╔╝███████║███████║ ╚████╔╝ 
+██║╚██╗██║██║██╔══██╗██╔══██╗██╔══██║██╔══██║  ╚██╔╝  
+██║ ╚████║██║██║  ██║██████╔╝██║  ██║██║  ██║   ██║   
+╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
+```
+
+### `{ Building Intelligent Systems · One Model at a Time }`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+Making+%F0%9F%A4%96;CS+%2B+AI+@+RGIPT+%F0%9F%8E%93;96%25+Accuracy+on+Phishing+Detection+%F0%9F%94%90;R%C2%B2+%3D+0.99+on+Calorie+Prediction+%F0%9F%94%A5;Top+3.76%25+JEE+Advanced+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>CS + AI Student @ RGIPT · Machine Learning · Full Stack · NLP</b>
+  <a href="https://drive.google.com/file/d/1nGn2Kh_dzYFI8GrvfnpT0MHwT7MLdRCF/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+  <a href="mailto:nirbhay247.ny@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nirbhay-chaudhary/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1nGn2Kh_dzYFI8GrvfnpT0MHwT7MLdRCF/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white"/></a>
-  <a href="mailto:nirbhay247.ny@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nirbhay-chaudhary/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1dWRzMWt3enVxNzlvMXZvdGNxM2Z3bHBqc3pzZXRwbzF4NHZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm an **Integrated Dual Degree (IDD) student in Computer Science & Artificial Intelligence** at Rajiv Gandhi Institute of Petroleum Technology, Amethi. I love building intelligent, data-driven systems — from real-time phishing detectors to full-stack analytics dashboards.
+## `> whoami`
 
-- 🎓 Currently pursuing **IDD in CS & AI** at RGIPT (2023–Present)
-- 🤖 Passionate about **Machine Learning, Deep Learning & NLP**
-- 🏆 Ranked in the **top 3.76%** among 180,000+ JEE Advanced candidates
-- 🎯 Secured **8th place** at Kode Kurrent 1.0 (24-hour coding event, 60+ teams)
-- 🎨 Design Executive at **GDG RGIPT** — created 20+ designs, boosted event engagement by 30%
-- 📬 Reach me at: **nirbhay247.ny@gmail.com**
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name        = "Nirbhay Chaudhary"
+        self.degree      = "IDD — CS & AI @ RGIPT"
+        self.batch       = "2023 – Present"
+        self.interests   = ["Machine Learning", "Deep Learning",
+                            "NLP", "Full Stack AI Apps"]
+        self.currently   = "Building ML systems that actually work"
+        self.fun_fact    = "I train models AND cricket teams 🏏"
 
----
+    def contact(self):
+        return "nirbhay247.ny@gmail.com"
+```
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**ML / AI**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Web & Deployment**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<br clear="right"/>
 
 ---
 
-## 📂 Featured Projects
+## `> ./stats --highlight`
 
-### 💬 [WhatsApp Chat Analysis](https://whatsapp-chat-analysis-011.streamlit.app/)
-> **Numpy · Pandas · Matplotlib · Streamlit · Wordcloud · NLP**
+<div align="center">
 
-A full-stack analytics platform that processes **10,000+ messages** to generate **15+ insights** — sentiment analysis, activity trends, and user engagement metrics.
+| 🎯 Metric | 🔢 Value |
+|-----------|---------|
+| 🏆 JEE Advanced Rank | **Top 3.76%** of 1,80,000+ candidates |
+| 🔐 Phishing Detection Accuracy | **96%+** with Random Forest & SVM |
+| 🔥 Calorie Predictor R² Score | **0.99** — near-perfect regression |
+| 📊 Student Performance R² Score | **0.88** · RMSE: 4.2 |
+| ⚡ Dashboard Speed Gain | **80% faster** manual analysis |
+| 🏅 Hackathon | **8th / 60+ teams** — Kode Kurrent 1.0 |
 
-- 📊 Built a real-time Streamlit dashboard with interactive visualizations
-- ⚡ Reduced manual analysis time by **80%** and boosted user engagement by **30%**
+</div>
 
 ---
+
+## `> cat tech_stack.json`
+
+```json
+{
+  "languages"   : ["Python", "C++", "C", "SQL", "JavaScript", "Bash"],
+  "ml_ai"       : ["Scikit-learn", "TensorFlow", "Keras", "NumPy", "Pandas"],
+  "nlp"         : ["NLTK", "WordCloud", "UrlExtract", "Sentiment Analysis"],
+  "web"         : ["Flask", "Streamlit", "ReactJS", "HTML5", "CSS3", "REST APIs"],
+  "databases"   : ["MySQL", "MongoDB", "PostgreSQL"],
+  "tools"       : ["Git", "GitHub", "GitLab", "Jupyter", "VS Code", "PyCharm"],
+  "concepts"    : ["ML", "Deep Learning", "NLP", "OOP", "DSA", "DBMS",
+                   "Feature Engineering", "Data Mining"]
+}
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## `> ls projects/`
 
 ### 🔐 [Real-Time Phishing Detection](YOUR_REPO_LINK)
-> **Python · Scikit-learn · Flask · MongoDB**
+> `Python` `Scikit-learn` `Flask` `MongoDB` `Feature Engineering`
 
-ML-powered URL classifier trained on **10,000+ URLs** using **30+ engineered features** with Random Forest and SVM.
+```
+[████████████████████████░░] 96%+ Accuracy
+```
+Trained on **10,000+ URLs** with **30+ engineered features**. Random Forest & SVM classifier deployed via Flask with real-time inference pipeline.
 
-- 🎯 Achieved **96%+ detection accuracy**
-- 🚀 Reduced false positives by **12%** and improved prediction speed by **25%**
+> 🎯 **96%+ accuracy** · 📉 **12% fewer false positives** · ⚡ **25% faster predictions**
 
 ---
 
-### 📊 [Student Performance Prediction](YOUR_REPO_LINK)
-> **Python · MySQL · Tkinter · Streamlit**
+### 💬 [WhatsApp Chat Analysis](https://whatsapp-chat-analysis-011.streamlit.app/)
+> `Streamlit` `Pandas` `NLP` `Matplotlib` `WordCloud`
 
-Predictive model built on **1,000+ student records** using Linear Regression and Random Forest.
+```
+[████████████████████░░░░░░] 80% Time Saved
+```
+Full-stack analytics platform processing **10,000+ messages** → **15+ insights** including sentiment, activity heatmaps, and engagement trends. Live on Streamlit!
 
-- 📈 Achieved **R²: 0.88** and **RMSE: 4.2**
-- ⚙️ Automated preprocessing pipeline reduced training time by **35%** and improved efficiency by **20%**
+> 📊 **15+ insights generated** · ⚡ **80% faster analysis** · 🚀 **30% more engagement**
+
+---
+
+### 📈 [Student Performance Prediction](YOUR_REPO_LINK)
+> `Python` `MySQL` `Linear Regression` `Random Forest` `Streamlit`
+
+```
+[████████████████████████░░] R² = 0.88
+```
+Predictive model on **1,000+ student records** with an automated preprocessing pipeline. MySQL-integrated Streamlit interface for real-time prediction.
+
+> 📈 **R²: 0.88 · RMSE: 4.2** · ⚙️ **35% faster training** · 🔄 **20% efficiency gain**
 
 ---
 
 ### 🔥 [Calorie Tracker](YOUR_REPO_LINK)
-> **Python · NumPy · Pandas · Scikit-learn · joblib · Tkinter**
+> `Python` `Scikit-learn` `joblib` `Tkinter` `Regression`
 
-Regression model trained on **15,000+ records** using health features (BMI, heart rate, exercise duration).
+```
+[██████████████████████████] R² = 0.99 ← near perfect
+```
+Regression model on **15,000+ records** using BMI, heart rate & exercise duration. Real-time Tkinter desktop app with sub-second inference.
 
-- 🏅 Achieved **R²: 0.99** — near-perfect predictive accuracy
-- ⚡ Real-time predictions with **< 1 second latency**, deployment size reduced by **15%** using joblib
-
----
-
-## 🏆 Achievements
-
-| 🥇 | Achievement | Year |
-|----|-------------|------|
-| 🏆 | **8th place** — Kode Kurrent 1.0 (24-hour hackathon, 60+ teams) | 2025 |
-| 🎯 | **Top 3.76%** — JEE Advanced among 180,000+ candidates | 2023 |
-| 🎨 | **Design Executive** — GDG RGIPT, 20+ designs, +30% event engagement | 2023–25 |
-| ⚽ | **Team Captain** — Led 15+ players, managed 10+ matches, +25% team performance | 2023–25 |
+> 🏅 **R²: 0.99** · ⚡ **< 1 second latency** · 📦 **15% smaller deployment**
 
 ---
 
-## 📚 Key Courses
+## `> cat achievements.log`
 
-`Data Structures & Algorithms` · `Machine Learning` · `Artificial Intelligence` · `Deep Learning` · `DBMS` · `Data Mining` · `Data Analytics` · `Web Technology` · `Operating Systems` · `Software Engineering`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+```
+[2025] ██ Kode Kurrent 1.0     → 8th / 60+ teams  | 24-hr coding marathon
+[2023] ██ JEE Advanced         → Top 3.76%         | 1,80,000+ candidates
+[2023] ██ Team Captain         → +25% performance  | Led 15 players, 10+ matches
+[2023] ██ GDG Design Executive → +30% engagement   | 20+ designs created
+```
 
 ---
 
-<p align="center">
-  <b>Let's build something intelligent together 🚀</b>
-</p>
+## `> python github_stats.py --user nirbhay1628`
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhay1628&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirbhay1628&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true"/>
+</div>
+
+---
+
+## `> cat courses.txt`
+
+<div align="center">
+
+`Machine Learning` · `Artificial Intelligence` · `Deep Learning` · `Data Structures & Algorithms` · `DBMS` · `Data Mining` · `Data Analytics` · `Web Technology` · `Operating Systems` · `Software Engineering`
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║   Open to Internships · Research · Collaborations    ║
+║          Let's build something intelligent 🚀        ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
