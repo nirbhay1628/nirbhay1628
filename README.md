@@ -63,7 +63,7 @@ I'm an **Integrated Dual Degree (IDD) student in Computer Science & Artificial I
 
 ## 📂 Featured Projects
 
-### 💬 [WhatsApp Chat Analysis](YOUR_REPO_LINK)
+### 💬 [WhatsApp Chat Analysis](https://whatsapp-chat-analysis-011.streamlit.app/)
 > **Numpy · Pandas · Matplotlib · Streamlit · Wordcloud · NLP**
 
 A full-stack analytics platform that processes **10,000+ messages** to generate **15+ insights** — sentiment analysis, activity trends, and user engagement metrics.
